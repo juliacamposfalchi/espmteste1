@@ -1,2 +1,5 @@
 # espmteste1
-repositório teste 2o semestre tech espm
+REPOSITÓRIO teste 2o semestre tech espm
+
+Olá meu povo! Estou aprendendo...
+
